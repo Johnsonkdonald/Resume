@@ -1,4 +1,3 @@
-# Resume
 <h1>Donald Johnson</h1>
 <p>1220 72nd st se apt 102 Auburn, WA 98092</p>
 <p>253-951-6066</p>
@@ -58,7 +57,7 @@
 <h4><em>Education</em></h4>
 
 <p>September 2009 - June 2010</p>
-<p>Seattle Central College, Seattle, WA</P>
+  <p>Seattle Central College, Seattle, WA</P>
 
 <p>September 2005 - June 2009</p>
-<p>Auburn Riverside High School, Auburn, WA</p>
+  <p>Auburn Riverside High School, Auburn, WA</p>
